@@ -2,7 +2,7 @@
 Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the learning doesn't stop right?  
 
 ## Week 2
-- [ ] Writing: 남성과 여성
+- [x] Writing: 남성과 여성
 - [x] Grammar: -긴 -나봐요 / 아무리 -기로서니
 
 ## Week 3
