@@ -14,7 +14,7 @@ Reading Materials: 대중문화
 
 ## Week 5
 Speaking Materials: 아까 부탁했던 자료는 구해 봤어?  
-Grammar Revision: 4급 (2)
+[Grammar Revision: 4급 (2)](week5-revision.md)
 
 ## Week 6
 Reading Materials: 직업과 적성  
