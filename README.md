@@ -15,7 +15,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 
 ## Week 5
 - [ ] Speaking: 아까 부탁했던 자료는 구해 봤어?
-- [ ] Revision: 4급 (2)
+- [x] Revision: 4급 (2)
 
 ## Week 6
 - [ ] Writing: 직업과 적성
