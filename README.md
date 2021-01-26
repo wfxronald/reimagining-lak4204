@@ -6,8 +6,8 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Grammar: -긴 -나봐요 / 아무리 -기로서니
 
 ## Week 3
-- [ ] Speaking: 너 수강 신청 다 했어?
-- [ ] Revision: 4급 (1)
+- [x] Speaking: 너 수강 신청 다 했어?
+- [x] Revision: 4급 (1)
 
 ## Week 4
 - [ ] Writing: 대중문화
