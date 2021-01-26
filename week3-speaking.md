@@ -33,9 +33,11 @@
 ### Pattern 1: 겨우 VERB + -았/었/였다
 - 간신히 VERB + -았/었/였다
 - 가까스로 VERB + -았/었/였다
+
 ### Pattern 2: VERB + -는 건 어때?
 - VERB + -는 게 어떨까?
 - VERB + -는 건 어때요?
+
 ### Pattern 3: NOUN + -(이)라는 NOUN
 - NOUN + -(이)라는 이름의 NOUN
 - NOUN + -(이)라는 제목의 NOUN
