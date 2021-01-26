@@ -5,8 +5,8 @@
 [Grammar Explanation: -긴 -나봐요 / 아무리 -기로서니](week2-grammar.md)
 
 ## Week 3
-Speaking Materials: 너 수강 신청 다 했어?  
-Grammar Revision: 4급 (1)
+[Speaking Materials: 너 수강 신청 다 했어?](week3-speaking.md)  
+[Grammar Revision: 4급 (1)](week3-revision.md)  
 
 ## Week 4
 Reading Materials: 대중문화  
