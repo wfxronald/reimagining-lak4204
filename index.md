@@ -38,7 +38,7 @@ Reading Materials: 과학의 발전
 
 ## Week 11
 Speaking Materials: 김 대리 한 잔 해  
-Grammar Revision: 6급 (1)
+[Grammar Revision: 6급 (1)](week11-revision.md)
 
 ## Week 12
 Reading Materials: 한국인의 여가 생활  
@@ -46,4 +46,4 @@ Reading Materials: 한국인의 여가 생활
 
 ## Week 13
 Speaking Materials: 혹시 몰라서 핫팩 가져왔어요  
-Grammar Revision: 6급 (2)
+[Grammar Revision: 6급 (2)](week13-revision.md)
