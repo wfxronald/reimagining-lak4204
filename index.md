@@ -22,7 +22,7 @@ Reading Materials: 직업과 적성
 
 ## Week 7
 Speaking Materials: 왜 항상 시험 때가 가까워져서 후회할까?  
-Grammar Revision: 5급 (1)
+[Grammar Revision: 5급 (1)](week7-revision.md)
 
 ## Week 8
 Reading Materials: 전통과 문화유산  
@@ -30,7 +30,7 @@ Reading Materials: 전통과 문화유산
 
 ## Week 9
 Speaking Materials: 다른 전달 사항 있나?  
-Grammar Revision: 5급 (2)
+[Grammar Revision: 5급 (2)](week9-revision.md)
 
 ## Week 10
 Reading Materials: 과학의 발전  
