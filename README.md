@@ -14,7 +14,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Grammar: -으랴 -으랴 / -으면 몰라도
 
 ## Week 5
-- [ ] Speaking: 아까 부탁했던 자료는 구해 봤어?
+- [x] Speaking: 아까 부탁했던 자료는 구해 봤어?
 - [x] Revision: 4급 (2)
 
 ## Week 6
