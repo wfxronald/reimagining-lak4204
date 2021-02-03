@@ -13,7 +13,7 @@ Reading Materials: 대중문화
 [Grammar Explanation: -으랴 -으랴 / -으면 몰라도](week4-grammar.md)
 
 ## Week 5
-Speaking Materials: 아까 부탁했던 자료는 구해 봤어?  
+[Speaking Materials: 아까 부탁했던 자료는 구해 봤어?](week5-speaking.md)  
 [Grammar Revision: 4급 (2)](week5-revision.md)
 
 ## Week 6
