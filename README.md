@@ -10,7 +10,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Revision: 4급 (1)
 
 ## Week 4
-- [ ] Writing: 대중문화
+- [x] Writing: 대중문화
 - [x] Grammar: -으랴 -으랴 / -으면 몰라도
 
 ## Week 5
