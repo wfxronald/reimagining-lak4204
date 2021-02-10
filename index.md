@@ -9,7 +9,7 @@
 [Grammar Revision: 4급 (1)](week3-revision.md)  
 
 ## Week 4
-Reading Materials: 대중문화  
+[Reading Materials: 대중문화](week4-reading.md)  
 [Grammar Explanation: -으랴 -으랴 / -으면 몰라도](week4-grammar.md)
 
 ## Week 5
