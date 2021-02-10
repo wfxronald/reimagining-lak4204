@@ -34,28 +34,28 @@
 - 저 정도면 괜찮은 그림이라고도 할 수 있다.
 
 ### New vocabulary in conversation
-자리 잡다 **to settle down**  
-눈길을 끌다 **to draw one's attention**  
-흥미롭다 **to be interesting**  
-장르 **genre**  
-넘나들다 **to cross over**  
-색다르다 **to be unique**  
-다루다 **to handle, to cover**  
-생명력 **liveliness**  
-지니다 **to have**  
+자리 잡다 *to settle down*  
+눈길을 끌다 *to draw one's attention*  
+흥미롭다 *to be interesting*  
+장르 *genre*  
+넘나들다 *to cross over*  
+색다르다 *to be unique*  
+다루다 *to handle, to cover*  
+생명력 *liveliness*  
+지니다 *to have*  
 
 ## 어휘
-기획 **planning**  
-각색 **adaptation**  
-제작 **production**  
-방송 **broadcast**  
-연출 **directed**  
-공연 **performance**  
-상연 **screening**  
-감독 **director**  
+기획 *planning*  
+각색 *adaptation*  
+제작 *production*  
+방송 *broadcast*  
+연출 *directed*  
+공연 *performance*  
+상연 *screening*  
+감독 *director*  
 
-시청자 **viewers, for audio-visual media**  
-관객 **audience**  
-청중 **listeners**  
-방청객 **audience, for trials**  
-독자 **readers**
+시청자 *viewers, for audio-visual media*  
+관객 *audience*  
+청중 *listeners*  
+방청객 *audience, for trials*  
+독자 *readers*
