@@ -17,7 +17,7 @@
 [Grammar Revision: 4급 (2)](week5-revision.md)
 
 ## Week 6
-Reading Materials: 직업과 적성  
+[Reading Materials: 직업과 적성](week6-reading.md)  
 [Grammar Explanation: -건만 / 같아선](week6-grammar.md)
 
 ## Week 7
@@ -25,7 +25,7 @@ Reading Materials: 직업과 적성
 [Grammar Revision: 5급 (1)](week7-revision.md)
 
 ## Week 8
-Reading Materials: 전통과 문화유산  
+[Reading Materials: 전통과 문화유산](week8-reading.md)  
 [Grammar Explanation: -길래 / -는 데](week8-grammar.md)
 
 ## Week 9
@@ -33,7 +33,7 @@ Reading Materials: 전통과 문화유산
 [Grammar Revision: 5급 (2)](week9-revision.md)
 
 ## Week 10
-Reading Materials: 과학의 발전  
+[Reading Materials: 과학의 발전](week10-reading.md)  
 [Grammar Explanation: -는다는 듯이 / -기에 망정이지](week10-grammar.md)
 
 ## Week 11
@@ -41,7 +41,7 @@ Reading Materials: 과학의 발전
 [Grammar Revision: 6급 (1)](week11-revision.md)
 
 ## Week 12
-Reading Materials: 한국인의 여가 생활  
+[Reading Materials: 한국인의 여가 생활](week12-reading.md)  
 [Grammar Explanation: -기 나름이다 / -을 줄만 알았지](week12-grammar.md)
 
 ## Week 13
