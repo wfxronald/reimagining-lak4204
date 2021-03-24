@@ -18,7 +18,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Revision: 4급 (2)
 
 ## Week 6
-- [ ] Writing: 직업과 적성
+- [x] Writing: 직업과 적성
 - [x] Grammar: -건만 / 같아선
 
 ## Week 7
@@ -26,7 +26,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Revision: 5급 (1)
 
 ## Week 8
-- [ ] Writing: 전통과 문화유산
+- [x] Writing: 전통과 문화유산
 - [x] Grammar: -길래 / -는 데
 
 ## Week 9
@@ -34,7 +34,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Revision: 5급 (2)
 
 ## Week 10
-- [ ] Writing: 과학의 발전
+- [x] Writing: 과학의 발전
 - [x] Grammar: -는다는 듯이 / -기에 망정이지
 
 ## Week 11
@@ -42,7 +42,7 @@ Our very own crafted syllabus for LAK4204 Korean 8. Class is cancelled but the l
 - [x] Revision: 6급 (1)
 
 ## Week 12
-- [ ] Writing: 한국인의 여가 생활
+- [x] Writing: 한국인의 여가 생활
 - [x] Grammar: -기 나름이다 / -을 줄만 알았지
 
 ## Week 13
