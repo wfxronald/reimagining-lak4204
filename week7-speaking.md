@@ -1,6 +1,6 @@
 [<< Back](index.md)
 
-# Week 5 Speaking: 왜 항상 시험 때가 가까워져서 후회할까?
+# Week 7 Speaking: 왜 항상 시험 때가 가까워져서 후회할까?
 *Content from Talk to Me In Korean: Real-Life Korean Conversations Intermediate*
 
 ## 대화 21
